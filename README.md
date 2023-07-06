@@ -1,2 +1,1 @@
 - 👋 Hola, soy @pabloalava99
-- 🌱 Actualmente estoy estudiando DAM (Desarrollo de aplicaciónes Multiplataforma)
