@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Pablo, soy desarrollador web fullstack.</p>
+<p align="left">Mi nombre es Pablo, soy desarrollador fullstack.</p>
 
 ###
 
